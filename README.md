@@ -21,10 +21,19 @@ Passionate about **turning complex ideas into seamless digital experiences**, fr
 ---
 
 ### 🚀 Projects
+- [Flight-Booking-App](https://github.com/Ibrahim18mib/flight-book-ang17) – Angular WebApp
+- [Quiz-Form](https://github.com/Ibrahim18mib/AngQuizForm) – Angular WebApp
+- [Dynamic-Form-Builder](https://github.com/Ibrahim18mib/Ang-Dynamic-FormBuilder) – Angular WebApp
+- [Fitness-Tracker](https://github.com/Ibrahim18mib/ANG-fitness-logger) – Angular WebApp
+- [Doctor-Appointment](https://github.com/Ibrahim18mib/DoctorAppointment-Ang19) – Angular WebApp
+- [Doctor-Appointment-API](https://github.com/Ibrahim18mib/DoctorAppointment-WebAPI) – Dotnet Core Web Api
 - [Threads-App](https://github.com/Ibrahim18mib/threads-be) – Angular & NestJS app 
 - [Ecommerce-App](https://github.com/Ibrahim18mib/mean-ecommerce) – Fullstack/MEAN
 - [Todo-Listing-App](https://github.com/Ibrahim18mib/MERN-TodoLists) – Fullstack/MERN
+- [Employee-CRUD](https://github.com/Ibrahim18mib/EmployeeCRUD-Asp.NET) – MVC/Asp.Net with Razor
 - [Gadgets-Web-Api](https://github.com/Ibrahim18mib/GadgetWebApi-DotNet) – Web-Api/DotnetCore
+- [SpeedMoto-Webapp](https://github.com/Ibrahim18mib/SpeedMoto_DotNetCore_MVC) – MVC/DotnetCore
+- [Finance-Webapp](https://github.com/Ibrahim18mib/MyFinanceApp_CORE-MVC) – MVC/DotnetCore
 - [Ng-Tar-Script](https://github.com/Ibrahim18mib/ng-tarbuild) – Script/Angular-transforming into tar file 
 - [Calcelectron-Desktop App with Electron.js](https://github.com/Ibrahim18mib/Calcelectron) – Cross-platform desktop application  
 
