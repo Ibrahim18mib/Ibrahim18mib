@@ -40,7 +40,7 @@ Passionate about **turning complex ideas into seamless digital experiences**, fr
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mohammed-ibrahim-095660196/)  
+- LinkedIn: [linkedin.com/in/Mohammed-Ibrahim](https://www.linkedin.com/in/mohammed-ibrahim-095660196/)  
 - GitHub: [github.com/Ibrahim18mib](https://github.com/Ibrahim18mib)  
 - Email: ibrahimmca18@gmail.com  
 
