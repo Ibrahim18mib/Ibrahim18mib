@@ -21,6 +21,9 @@ Passionate about **turning complex ideas into seamless digital experiences**, fr
 ---
 
 ### 🚀 TOP Projects
+- [FastAPI-microservices](https://github.com/Ibrahim18mib/fast-api-todo) – face matching, passport OCR extraction, MRZ parsing, and fraud detection — all built with Python and FastAPI.
+- [Ng-Tar-Script](https://github.com/Ibrahim18mib/ng-tarbuild) – Script/Angular-transforming into tar file 
+- [Calcelectron-Desktop App with Electron.js](https://github.com/Ibrahim18mib/Calcelectron) – Cross-platform desktop application  
 - [Flight-Booking-App](https://github.com/Ibrahim18mib/flight-book-ang17) – Angular WebApp
 - [Quiz-Form](https://github.com/Ibrahim18mib/AngQuizForm) – Angular WebApp
 - [Dynamic-Form-Builder](https://github.com/Ibrahim18mib/Ang-Dynamic-FormBuilder) – Angular WebApp
@@ -34,9 +37,6 @@ Passionate about **turning complex ideas into seamless digital experiences**, fr
 - [Gadgets-Web-Api](https://github.com/Ibrahim18mib/GadgetWebApi-DotNet) – Web-Api/DotnetCore
 - [SpeedMoto-Webapp](https://github.com/Ibrahim18mib/SpeedMoto_DotNetCore_MVC) – MVC/DotnetCore
 - [Finance-Webapp](https://github.com/Ibrahim18mib/MyFinanceApp_CORE-MVC) – MVC/DotnetCore
-- [Ng-Tar-Script](https://github.com/Ibrahim18mib/ng-tarbuild) – Script/Angular-transforming into tar file 
-- [Calcelectron-Desktop App with Electron.js](https://github.com/Ibrahim18mib/Calcelectron) – Cross-platform desktop application  
-
 ---
 
 ### 📫 Connect with Me
