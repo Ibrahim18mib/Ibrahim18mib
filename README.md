@@ -21,7 +21,7 @@ Passionate about **turning complex ideas into seamless digital experiences**, fr
 ---
 
 ### 🚀 TOP Projects
-- [FastAPI-microservices](https://github.com/Ibrahim18mib/fast-api-todo) – face matching, passport OCR extraction, MRZ parsing, and fraud detection — all built with Python and FastAPI.
+- [FastAPI-microservices](https://github.com/Ibrahim18mib/fast-api-todo) – Services of face matching, passport OCR extraction, MRZ parsing, and fraud detection.
 - [Ng-Tar-Script](https://github.com/Ibrahim18mib/ng-tarbuild) – Script/Angular-transforming into tar file 
 - [Calcelectron-Desktop App with Electron.js](https://github.com/Ibrahim18mib/Calcelectron) – Cross-platform desktop application  
 - [Flight-Booking-App](https://github.com/Ibrahim18mib/flight-book-ang17) – Angular WebApp
